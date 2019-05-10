@@ -6,7 +6,7 @@
 @WebSite: https://www.staurl.com
 @LastEditors: Tudaozi
 @Date: 2019-05-09 17:28:25
-@LastEditTime: 2019-05-10 16:19:04
+@LastEditTime: 2019-05-10 16:21:15
 '''
 from c11_1_name_function import get_formatted_name
 print("Enter 'q' at any time to quit.")
