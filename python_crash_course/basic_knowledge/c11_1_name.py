@@ -6,9 +6,9 @@
 @WebSite: https://www.staurl.com
 @LastEditors: Tudaozi
 @Date: 2019-05-09 17:28:25
-@LastEditTime: 2019-05-10 10:56:07
+@LastEditTime: 2019-05-10 16:18:36
 '''
-from c11-1-name_function import get_formatted_name
+from c11_1_name_function import get_formatted_name
 print("Enter 'q' at any time to quit.")
 while True:
     first = input("\nPlease give me a first name: ")
